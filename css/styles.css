@@ -22,3 +22,7 @@ h3 {
 .circular {
   border-radius: 100%;
 }
+
+.styles {
+  background-color: pink;
+}
